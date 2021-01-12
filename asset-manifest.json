@@ -5,18 +5,18 @@
     "main.js.map": "/react-hook-form-sandbox/static/js/main.0ca8246f.chunk.js.map",
     "runtime-main.js": "/react-hook-form-sandbox/static/js/runtime-main.b7afa259.js",
     "runtime-main.js.map": "/react-hook-form-sandbox/static/js/runtime-main.b7afa259.js.map",
-    "static/js/2.e5bc6bbd.chunk.js": "/react-hook-form-sandbox/static/js/2.e5bc6bbd.chunk.js",
-    "static/js/2.e5bc6bbd.chunk.js.map": "/react-hook-form-sandbox/static/js/2.e5bc6bbd.chunk.js.map",
+    "static/js/2.4ed8598f.chunk.js": "/react-hook-form-sandbox/static/js/2.4ed8598f.chunk.js",
+    "static/js/2.4ed8598f.chunk.js.map": "/react-hook-form-sandbox/static/js/2.4ed8598f.chunk.js.map",
     "static/js/3.93c5b83f.chunk.js": "/react-hook-form-sandbox/static/js/3.93c5b83f.chunk.js",
     "static/js/3.93c5b83f.chunk.js.map": "/react-hook-form-sandbox/static/js/3.93c5b83f.chunk.js.map",
     "index.html": "/react-hook-form-sandbox/index.html",
     "static/css/main.60c952a0.chunk.css.map": "/react-hook-form-sandbox/static/css/main.60c952a0.chunk.css.map",
-    "static/js/2.e5bc6bbd.chunk.js.LICENSE.txt": "/react-hook-form-sandbox/static/js/2.e5bc6bbd.chunk.js.LICENSE.txt",
+    "static/js/2.4ed8598f.chunk.js.LICENSE.txt": "/react-hook-form-sandbox/static/js/2.4ed8598f.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/react-hook-form-sandbox/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b7afa259.js",
-    "static/js/2.e5bc6bbd.chunk.js",
+    "static/js/2.4ed8598f.chunk.js",
     "static/css/main.60c952a0.chunk.css",
     "static/js/main.0ca8246f.chunk.js"
   ]
