@@ -50,8 +50,6 @@ function App() {
           />
         </form>
         <button onClick={() => {reset()}}>クリアボタン</button>
-        <button onClick={() => {reset()}}>クリアボタン2</button>
-
       </article>
     </div>
   );
