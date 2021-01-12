@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import { useForm, NestedValue } from 'react-hook-form';
+import { useForm, NestedValue } from 'react-hook-form/dist/index.ie11';
 
 function App() {
 
