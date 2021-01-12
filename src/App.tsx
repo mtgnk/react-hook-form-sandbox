@@ -1,8 +1,11 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import { useForm, NestedValue } from 'react-hook-form';
 
 function App() {
+
+  const {register,reset} = useForm()
   return (
     <div className="App">
       <header className="App-header">
@@ -19,6 +22,36 @@ function App() {
           Learn React
         </a>
       </header>
+      <article>
+        <form className="form-container">
+          <label>
+            ID
+          </label>
+          <input
+          name='id'
+          ref={register()}
+            className='form-control'
+          />
+          <label>
+            名前
+          </label>
+          <input
+          name='name'
+          ref={register()}
+            className='form-control'
+          />
+          <label>
+            備考
+          </label>
+          <input
+          name='description'
+          ref={register()}
+            className='form-control'
+          />
+        </form>
+        <button onClick={() => {reset()}}>クリアボタン</button>
+
+      </article>
     </div>
   );
 }
